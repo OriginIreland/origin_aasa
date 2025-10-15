@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["X2G7SR36HK.com.Historical.OriginApp"],
+        "components": [
+          { "/": "/histogram*", "comment": "Allow /histogram and /histogram?post=..." }
+        ]
+      }
+    ]
+  }
+}
